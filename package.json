@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "mongoose": "^5.0.7"
+    "mongoose": "^5.0.7",
+    "moongoose": "0.0.5"
   },
   "devDependencies": {},
   "scripts": {
